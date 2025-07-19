@@ -1,0 +1,6 @@
+* Learn Golang
+
+** slices
+- 
+*** References
+- https://go.dev/blog/slices
